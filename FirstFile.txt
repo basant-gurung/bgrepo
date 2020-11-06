@@ -16,3 +16,5 @@ More changes from v3.0
 More changes in v2.0
 
 More and more changes in v2.0
+
+Closing branch 3.0
