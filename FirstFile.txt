@@ -5,6 +5,8 @@ We deal in :
 Cars
 Food
 
+Games
+
 Thank you.
 
-Adding from v1.0
+Adding from v2.0
